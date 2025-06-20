@@ -1,0 +1,19 @@
+streamlit
+groq  # Groq official Python client
+python-dotenv
+elevenlabs>=1.1.0
+faiss-cpu
+pymupdf  # for PDF processing (fitz)
+deep-translator
+whisper  # local Whisper model
+sounddevice
+scipy
+pandas
+numpy
+requests
+torch
+transformers
+sentence-transformers
+tiktoken
+langchain-core==0.3.28
+langchain-community==0.3.13
